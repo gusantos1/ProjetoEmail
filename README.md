@@ -42,7 +42,8 @@ sudo apt-get install qttools5-dev-tools
 <img src="https://github.com/gusantos1/icons/blob/main/github.jpg" width="20" height="20"> | *gusantos1*
 <img src="https://github.com/gusantos1/icons/blob/main/008-youtube.svg" width="20" height="20"> | *Canal Puxei Comp: https://rb.gy/4xltia*
 <img src="https://github.com/gusantos1/icons/blob/main/telegram.svg" width="20" height="20"> | *guilhermemak*
-<img src="https://github.com/gusantos1/icons/blob/main/010-linkedin.svg" width="20" height="20"> |*gusantosdev
+<img src="https://github.com/gusantos1/icons/blob/main/010-linkedin.svg" width="20" height="20"> |*gusantosdev*
+
 ---
 
 
